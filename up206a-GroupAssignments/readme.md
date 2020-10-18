@@ -1,15 +1,14 @@
 # PROJECT TITLE GOES HERE
 **Bertha Calderón Chiñas & Rayne Laborde**
 
-*Research Question:* An introduction of your research question
+*Research Question:* What are the shared characteristics of LA Public Parks where informal settlements occur?
 
-*Research Impact:* An explanation of why it is important to you, why it matters to others, and what is at stake
+*Research Impact:* This question addresses our shared interests in informality and services for unhoused individuals, and is directly relevant to Rayne's Capstone on how reimagining the role of parks in communities can better serve unhoused populations. Broadly, better understanding park-based encampments helps clarify certain needs of unhoused individuals, patterns of settlement, and can identify key areas for further services or new initiatives. 
 
-*Spatial Scope:* A description of the spatial scope (e.g. Boyle Heights or Hong Kong), and why space and/or time matters for your project
+*Spatial Scope:* We will be looking at parks and unhoused settlements in the City of Los Angeles. This narrows our scope to one jurisdictional area, which we will study over the 2016-19 period in order to understand which park-based informal settlements are persisting over time.
 
-*Data Sources:*  A preliminary but definitive description of data sources (at least two) that you will use
-Include datasource with links
+*Data Sources:*  LA 311 Call database, years 2016-19. Parks shape file. Further data sources may include transit adjacency, data mapping restrooms and/or water access, adjacent parking, American Community Survey demographic data, and/or programmatic survice provision.
 
-*Scope:* A scope that explains the intended analysis and resulting visualizations for your project
+*Scope:* Our project seeks to understand the relationship between park services, location, demographic context, and occurance of informal settlements in the form of unhoused encampments. Visualizations will include a map of changes in park-based encampment locations over time (2016-19); a map of persistent park-based encampments throughout the time period; a chart showing correlation between park-based services and informal settlement occurance; a chart showing correlation between park characteristics and informal settlement occurance; and a map of neighborhood demographics adjacent to occupied park areas.
 
-*Anticipated Insights:* A concluding paragraph of what insights you expect to gain from your research
+*Anticipated Insights:* Some hypotheses include: larger parks with greater amenities will host encampments more often than smaller parks; similarly, parks in socioeconomically marginalized communities will host encampments more often; transit-adjacent parks may host a greater number of encampments than parks in transit deserts.
