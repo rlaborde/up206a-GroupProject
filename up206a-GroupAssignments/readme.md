@@ -1,7 +1,7 @@
 # PROJECT TITLE GOES HERE
 **Bertha Calderón Chiñas & Rayne Laborde**
 
-*Research Question:* What are the shared characteristics of LA Public Parks where informal settlements occur?
+*Research Question:* What are the shared characteristics of City of Los Angeles Public Parks where informal settlements occur?
 
 *Research Impact:* This question addresses our shared interests in informality and services for unhoused individuals, and is directly relevant to Rayne's Capstone on how reimagining the role of parks in communities can better serve unhoused populations. Broadly, better understanding park-based encampments helps clarify certain needs of unhoused individuals, patterns of settlement, and can identify key areas for further services or new initiatives. 
 
