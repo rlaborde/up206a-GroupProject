@@ -1,5 +1,5 @@
 # PROJECT TITLE TBD
-**Bertha Calderón Chiñas & Rayne Laborde**
+**Rayne Laborde**
 
 *Research Question:* What are the shared characteristics of City of Los Angeles Public Parks where informal settlements occur?
 
